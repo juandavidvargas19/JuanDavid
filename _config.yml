@@ -1,9 +1,21 @@
 title: Juan David Vargas Mazuera # your name (or website title) here
 logo: "/images/JuanD_32.jpg?raw=true" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
-  First description 
-  <br><br>
-  Second description 
+   <br>
+  Current last semester electronics engineering student
+  with double emphasis in mecatronics and telecommunications.
+  I have great interest in artificial intelligence and
+  finaces. I am currently working in ML software tool
+  to help in buying/selling/holding decissions of 
+  stock mid-long term trading in the stock market
+  given companies' intrinsic economic data. 
+  <br>
+  Also, I especially like mathematics. I won first place
+  in the "11 Olimpiadas regionales de matemáticas" in 
+  Colombia, as well as I had the opportunity to be ranked 
+  10th in the selection phase prior to the 2017 IMO. Currently
+  I am part of my university's maths team, as well as I am
+  an AIESEC member. 
   <br><br>
   <a href="https://www.linkedin.com/in/example/">View My LinkedIn Profile</a> 
 theme: jekyll-theme-minimal
