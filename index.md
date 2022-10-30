@@ -4,19 +4,23 @@
 
 ### Relevant Projects
 
-[Project 1 Title](/sample_page)
+[Degree project:Comparison of Machine Learning Methods Applied to Predicting Short-Term Movements of DJIA Stocks During Quarterly Financial Reporting Periods](/sample_page)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
-[Project 2 Title](/pdf/sample_presentation.pdf)
+[Arquitecture's digital design of a decission supporting software for buying/holding/selling stocks](/pdf/sample_presentation.pdf)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
-[Project 3 Title](http://example.com/)
+[Design of a vital signs measuring device for travellers](http://example.com/)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
-[Project 4 Title](http://example.com/)
+[Architecture design of a computer, and Fitness Timer app programming](http://example.com/)
+<img src="images/dummy_thumbnail.jpg?raw=true"/>
+
+---
+[Analysis of the regularity of participation of students of the Electrical Engineering PUJ in sports activities in the university environment and their relationship with the semester advantage](http://example.com/)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
@@ -24,8 +28,9 @@
 
 - [Degree project:Comparison of Machine Learning Methods Applied to Predicting Short-Term Movements of DJIA Stocks During Quarterly Financial Reporting Periods](http://example.com/)
 - [Arquitecture's digital design of a decission supporting software for buying/holding/selling stocks](http://example.com/)
-- [Project 3 Title](http://example.com/)
-- [Project 4 Title](http://example.com/)
+- [Design of a vital signs measuring device for travellers](http://example.com/)
+- [Architecture design of a computer, and Fitness Timer app programming](http://example.com/)
+- [Analysis of the regularity of participation of students of the Electrical Engineering PUJ in sports activities in the university environment and their relationship with the semester advantage](http://example.com/)
 
 
 ---
@@ -36,7 +41,7 @@
 - October 2022. I enrolled into the "online diploma in Neural Networks and Deep Learning " course at UAO university. 
 - September 2022. I finished the	"Stock Market Self-Regulator Exam Preparation" course at bvc online.
 - Septemeber 2022. I finished the "Comparison of Machine Learning Methods Applied to Predicting Short-Term Movements of DJIA Stocks During Quarterly Financial Reporting Periods" project.
-- August 2022. I started the "Arquitecture's digital design of a decission supporting software for buying/holding/selling stocks" project.  
+- August 2022. I started the "Architecture's digital design of a decission supporting software for buying/holding/selling stocks" project.  
 - June -July 2022. I volunteered at CEFAMM, Quito. 
 - June 2022. I finished the "diploma in stock market" course at bvc online. 
 - April 2022. I finished the "Machine learning with python: a practical introduction" course at edx. 
