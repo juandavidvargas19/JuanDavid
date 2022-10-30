@@ -37,5 +37,6 @@
 <!-- Remove above link if you don't want to attibute -->
 
 
+google_analytics: UA-000000-0 # your Google Analytics tracking ID here
 
 
