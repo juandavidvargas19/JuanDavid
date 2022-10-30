@@ -29,7 +29,7 @@
 
 ### Timeline
 
-- October 2022. I finished the "Object programming in Java" course at coursera.
+- October 2022. I finished the "Object Oriented programming in Java" course at coursera.
 - October 2022. I enrolled into the "online diploma in Neural Networks and Deep Learning " course at UAO university. 
 - September 2022. I finished the	"Stock Market Self-Regulator Exam Preparation" course at bvc online.
 - Septemeber 2022. I finished the "Comparison of Machine Learning Methods Applied to Predicting Short-Term Movements of DJIA Stocks During Quarterly Financial Reporting Periods" project.
