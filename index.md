@@ -36,7 +36,3 @@
 <p style="font-size:11px">Page template forked from <a href="https://github.com/evanca/quick-portfolio">evanca</a></p>
 <!-- Remove above link if you don't want to attibute -->
 
-
-google_analytics: UA-000000-0 # your Google Analytics tracking ID here
-
-
