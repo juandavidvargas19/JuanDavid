@@ -35,7 +35,7 @@
 - Septemeber 2022. I finished the "Comparison of Machine Learning Methods Applied to Predicting Short-Term Movements of DJIA Stocks During Quarterly Financial Reporting Periods" project.
 - August 2022. I started the "Arquitecture's digital design of a decission supporting software for buying/holding/selling stocks" project.  
 - June -July 2022. I volunteered at CEFAMM, Quito. 
-- June 2022. I finished "diploma in stock market" course at bvc online. 
+- June 2022. I finished the "diploma in stock market" course at bvc online. 
 - April 2022. I finished the "Machine learning with python: a practical introduction" course at edx. 
 - February 2022. I started the "Comparison of Machine Learning Methods Applied to Predicting Short-Term Movements of DJIA Stocks During Quarterly Financial Reporting Periods" project.
 - December 2021-January 2021. I volunteered at SERART, Guadalajara.
