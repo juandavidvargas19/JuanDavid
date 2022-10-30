@@ -16,14 +16,17 @@
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
+[Project 4 Title](http://example.com/)
+<img src="images/dummy_thumbnail.jpg?raw=true"/>
 
+---
 ### PDFs - Projects
 
-- [Project 1 Title](http://example.com/)
-- [Project 2 Title](http://example.com/)
+- [Degree project:Comparison of Machine Learning Methods Applied to Predicting Short-Term Movements of DJIA Stocks During Quarterly Financial Reporting Periods](http://example.com/)
+- [Arquitecture's digital design of a decission supporting software for buying/holding/selling stocks](http://example.com/)
 - [Project 3 Title](http://example.com/)
 - [Project 4 Title](http://example.com/)
-- [Project 5 Title](http://example.com/)
+
 
 ---
 
