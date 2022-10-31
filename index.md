@@ -2,7 +2,7 @@
 
 ---
 
-### Relevant University Projects
+### Relevant University Projects. Summary posters.
 
 [Degree project:Comparison of Machine Learning Methods Applied to Predicting Short-Term Movements of DJIA Stocks During Quarterly Financial Reporting Periods](https://drive.google.com/file/d/1HwM-nndI3PmbBNZRBjc0OxugWNdrR2rN/view?usp=sharing)
 <img src="images/Poster_DegreeProject.png?raw=true"/>
@@ -24,7 +24,7 @@
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
-### PDFs - Projects
+### Complete Projects - PDFs (Spanish)
 
 - [Degree project:Comparison of Machine Learning Methods Applied to Predicting Short-Term Movements of DJIA Stocks During Quarterly Financial Reporting Periods](https://drive.google.com/file/d/1HwM-nndI3PmbBNZRBjc0OxugWNdrR2rN/view?usp=sharing)
 - [Arquitecture's digital design of a decission supporting software for buying/holding/selling stocks](http://example.com/)
