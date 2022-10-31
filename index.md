@@ -8,7 +8,7 @@
 <img src="images/Poster_DegreeProject.png?raw=true"/>
 
 ---
-[Arquitecture's digital design of a decission supporting software for buying/holding/selling stocks](/pdf/sample_presentation.pdf)
+[Design's Architecture of a decission supporting software for buying/holding/selling stocks](/pdf/sample_presentation.pdf)
 <img src="images/Poster_Architecture_ML_Software_StockMarket.png?raw=true"/>
 
 ---
@@ -27,7 +27,7 @@
 ### Complete Projects - PDFs (Spanish)
 
 - [Degree project:Comparison of Machine Learning Methods Applied to Predicting Short-Term Movements of DJIA Stocks During Quarterly Financial Reporting Periods](https://drive.google.com/file/d/1HwM-nndI3PmbBNZRBjc0OxugWNdrR2rN/view?usp=sharing)
-- [Arquitecture's digital design of a decission supporting software for buying/holding/selling stocks](http://example.com/)
+- [Design's Architecture of a decission supporting software for buying/holding/selling stocks](http://example.com/)
 - [Design of a vital signs measuring device for travellers](https://drive.google.com/file/d/1mL0XeWrRTFDERlXTDg2GRa9UACPKTGdS/view?usp=sharing)
 - [Architecture design of a computer, and Fitness Timer app programming](https://drive.google.com/file/d/1uvSMTY9uSVOyogz2uCqb85k1BW4Mq4Vg/view?usp=sharing)
 - [Analysis of the regularity of participation of students of the Electrical Engineering PUJ in sports activities in the university environment and their relationship with the semester advantage](https://drive.google.com/file/d/1hDD_FKXWgrtuJRIDVtmnyYhHoBSyRkTl/view?usp=sharing)
