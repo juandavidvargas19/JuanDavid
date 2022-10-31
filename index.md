@@ -13,7 +13,7 @@
 
 ---
 [Design of a vital signs measuring device for travellers](https://drive.google.com/file/d/1mL0XeWrRTFDERlXTDg2GRa9UACPKTGdS/view?usp=sharing)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+<img src="images/Poster_VitalSigns.png?raw=true"/>
 
 ---
 [Architecture design of a computer, and Fitness Timer app programming]([http://example.com/](https://drive.google.com/file/d/1uvSMTY9uSVOyogz2uCqb85k1BW4Mq4Vg/view?usp=sharing))
