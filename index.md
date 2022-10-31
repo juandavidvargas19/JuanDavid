@@ -2,7 +2,7 @@
 
 ---
 
-### Relevant University Projects. Summary posters.
+### Relevant University Projects. Summary Posters.
 
 [Degree project:Comparison of Machine Learning Methods Applied to Predicting Short-Term Movements of DJIA Stocks During Quarterly Financial Reporting Periods](https://drive.google.com/file/d/1HwM-nndI3PmbBNZRBjc0OxugWNdrR2rN/view?usp=sharing)
 <img src="images/Poster_DegreeProject.png?raw=true"/>
