@@ -40,9 +40,9 @@
 ---
 ### Complete Projects' Documents - PDFs (Spanish)
 
-- [Degree project:Comparison of Machine Learning Methods Applied to Predicting Short-Term Movements of DJIA Stocks During Quarterly Financial Reporting Periods](https://drive.google.com/file/d/1HwM-nndI3PmbBNZRBjc0OxugWNdrR2rN/view?usp=sharing)
+- [Design's Architecture of a decission supporting software for buying/holding/selling stocks - ONGOING - NO DOCUMENT](http://example.com/)
 
-- [Design's Architecture of a decission supporting software for buying/holding/selling stocks](http://example.com/)
+- [Degree project:Comparison of Machine Learning Methods Applied to Predicting Short-Term Movements of DJIA Stocks During Quarterly Financial Reporting Periods](https://drive.google.com/file/d/1HwM-nndI3PmbBNZRBjc0OxugWNdrR2rN/view?usp=sharing)
 
 - [Design of a vital signs measuring device for travellers](https://drive.google.com/file/d/1mL0XeWrRTFDERlXTDg2GRa9UACPKTGdS/view?usp=sharing)
 
