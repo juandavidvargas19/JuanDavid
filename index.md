@@ -4,7 +4,7 @@
 
 ### Relevant Projects
 
-[Degree project:Comparison of Machine Learning Methods Applied to Predicting Short-Term Movements of DJIA Stocks During Quarterly Financial Reporting Periods](/sample_page)
+[Degree project:Comparison of Machine Learning Methods Applied to Predicting Short-Term Movements of DJIA Stocks During Quarterly Financial Reporting Periods](https://drive.google.com/file/d/1HwM-nndI3PmbBNZRBjc0OxugWNdrR2rN/view?usp=sharing)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
@@ -12,25 +12,25 @@
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
-[Design of a vital signs measuring device for travellers](http://example.com/)
+[Design of a vital signs measuring device for travellers](https://drive.google.com/file/d/1mL0XeWrRTFDERlXTDg2GRa9UACPKTGdS/view?usp=sharing)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
-[Architecture design of a computer, and Fitness Timer app programming](http://example.com/)
+[Architecture design of a computer, and Fitness Timer app programming]([http://example.com/](https://drive.google.com/file/d/1uvSMTY9uSVOyogz2uCqb85k1BW4Mq4Vg/view?usp=sharing))
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
-[Analysis of the regularity of participation of students of the Electrical Engineering PUJ in sports activities in the university environment and their relationship with the semester advantage](http://example.com/)
+[Analysis of the regularity of participation of students of the Electrical Engineering PUJ in sports activities in the university environment and their relationship with the semester advantage](https://drive.google.com/file/d/1hDD_FKXWgrtuJRIDVtmnyYhHoBSyRkTl/view?usp=sharing)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
 ### PDFs - Projects
 
-- [Degree project:Comparison of Machine Learning Methods Applied to Predicting Short-Term Movements of DJIA Stocks During Quarterly Financial Reporting Periods](http://example.com/)
+- [Degree project:Comparison of Machine Learning Methods Applied to Predicting Short-Term Movements of DJIA Stocks During Quarterly Financial Reporting Periods](https://drive.google.com/file/d/1HwM-nndI3PmbBNZRBjc0OxugWNdrR2rN/view?usp=sharing)
 - [Arquitecture's digital design of a decission supporting software for buying/holding/selling stocks](http://example.com/)
-- [Design of a vital signs measuring device for travellers](http://example.com/)
-- [Architecture design of a computer, and Fitness Timer app programming](http://example.com/)
-- [Analysis of the regularity of participation of students of the Electrical Engineering PUJ in sports activities in the university environment and their relationship with the semester advantage](http://example.com/)
+- [Design of a vital signs measuring device for travellers](https://drive.google.com/file/d/1mL0XeWrRTFDERlXTDg2GRa9UACPKTGdS/view?usp=sharing)
+- [Architecture design of a computer, and Fitness Timer app programming](https://drive.google.com/file/d/1uvSMTY9uSVOyogz2uCqb85k1BW4Mq4Vg/view?usp=sharing)
+- [Analysis of the regularity of participation of students of the Electrical Engineering PUJ in sports activities in the university environment and their relationship with the semester advantage](https://drive.google.com/file/d/1hDD_FKXWgrtuJRIDVtmnyYhHoBSyRkTl/view?usp=sharing)
 
 
 ---
