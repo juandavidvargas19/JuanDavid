@@ -5,7 +5,7 @@
 ### Relevant University Projects
 
 [Degree project:Comparison of Machine Learning Methods Applied to Predicting Short-Term Movements of DJIA Stocks During Quarterly Financial Reporting Periods](https://drive.google.com/file/d/1HwM-nndI3PmbBNZRBjc0OxugWNdrR2rN/view?usp=sharing)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+<img src="images/Poster_DegreeProject.png?raw=true"/>
 
 ---
 [Arquitecture's digital design of a decission supporting software for buying/holding/selling stocks](/pdf/sample_presentation.pdf)
