@@ -9,7 +9,7 @@
 
 ---
 [Arquitecture's digital design of a decission supporting software for buying/holding/selling stocks](/pdf/sample_presentation.pdf)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+<img src="images/Poster_Architecture_ML_Software_StockMarket.png?raw=true"/>
 
 ---
 [Design of a vital signs measuring device for travellers](https://drive.google.com/file/d/1mL0XeWrRTFDERlXTDg2GRa9UACPKTGdS/view?usp=sharing)
