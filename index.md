@@ -14,6 +14,8 @@
 
 
 [Degree project: Comparison of Machine Learning Methods Applied to Predicting Short-Term Movements of DJIA Stocks During Quarterly Financial Reporting Periods](https://drive.google.com/file/d/1HwM-nndI3PmbBNZRBjc0OxugWNdrR2rN/view?usp=sharing)
+ ENGLISH COMMENTED CODE AVAILABLE (Go to "Projects' Documents" below)
+
 <img src="images/Poster_DegreeProject.png?raw=true"/>
 
 
@@ -39,7 +41,7 @@
 
 
 ---
-### Complete Projects' Documents - (Spanish)
+### Projects' Documents - (Spanish)
 
 - [Design's Architecture of a decission supporting software for buying/holding/selling stocks](https://drive.google.com/drive/folders/1z_AQXtreZA6JAn1m_sOycwdNzCvRHKhc?usp=sharing)
   ONGOING - NO PDF
