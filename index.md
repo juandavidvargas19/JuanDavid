@@ -20,7 +20,7 @@
 <img src="images/Poster_Fitness.png?raw=true"/>
 
 ---
-[Analysis of the regularity of participation of students of the Electrical Engineering PUJ in sports activities in the university environment and their relationship with the semester advantage](https://drive.google.com/file/d/1hDD_FKXWgrtuJRIDVtmnyYhHoBSyRkTl/view?usp=sharing)
+[Analysis of the participation frequency of PUJ electronics engineering students in sports and its relationship with the advance of semesters](https://drive.google.com/file/d/1hDD_FKXWgrtuJRIDVtmnyYhHoBSyRkTl/view?usp=sharing)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
@@ -30,7 +30,7 @@
 - [Design's Architecture of a decission supporting software for buying/holding/selling stocks](http://example.com/)
 - [Design of a vital signs measuring device for travellers](https://drive.google.com/file/d/1mL0XeWrRTFDERlXTDg2GRa9UACPKTGdS/view?usp=sharing)
 - [Architecture design of a computer, and Fitness Timer app programming](https://drive.google.com/file/d/1uvSMTY9uSVOyogz2uCqb85k1BW4Mq4Vg/view?usp=sharing)
-- [Analysis of the regularity of participation of students of the Electrical Engineering PUJ in sports activities in the university environment and their relationship with the semester advantage](https://drive.google.com/file/d/1hDD_FKXWgrtuJRIDVtmnyYhHoBSyRkTl/view?usp=sharing)
+- [Analysis of the participation frequency of PUJ electronics engineering students in sports and its relationship with the advance of semesters](https://drive.google.com/file/d/1hDD_FKXWgrtuJRIDVtmnyYhHoBSyRkTl/view?usp=sharing)
 
 
 ---
