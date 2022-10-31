@@ -38,7 +38,7 @@
 
 
 ---
-### Complete Projects' Documents - PDFs (Spanish)
+### Complete Projects' Documents - (Spanish)
 
 - [Design's Architecture of a decission supporting software for buying/holding/selling stocks - ONGOING - NO PDF](https://drive.google.com/drive/folders/1z_AQXtreZA6JAn1m_sOycwdNzCvRHKhc?usp=sharing)
 
