@@ -17,7 +17,7 @@
 
 ---
 [Architecture design of a computer, and Fitness Timer app programming]([http://example.com/](https://drive.google.com/file/d/1uvSMTY9uSVOyogz2uCqb85k1BW4Mq4Vg/view?usp=sharing))
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+<img src="images/Poster_Fitness.png?raw=true"/>
 
 ---
 [Analysis of the regularity of participation of students of the Electrical Engineering PUJ in sports activities in the university environment and their relationship with the semester advantage](https://drive.google.com/file/d/1hDD_FKXWgrtuJRIDVtmnyYhHoBSyRkTl/view?usp=sharing)
