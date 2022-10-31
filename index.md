@@ -38,7 +38,7 @@
 
 
 ---
-### Complete Projects - PDFs (Spanish)
+### Complete Projects' Documents - PDFs (Spanish)
 
 - [Degree project:Comparison of Machine Learning Methods Applied to Predicting Short-Term Movements of DJIA Stocks During Quarterly Financial Reporting Periods](https://drive.google.com/file/d/1HwM-nndI3PmbBNZRBjc0OxugWNdrR2rN/view?usp=sharing)
 
