@@ -5,7 +5,8 @@
 ### University Projects. Summarized Posters.
 
 
-[Design's Architecture of a decission supporting software for buying/holding/selling stocks - ONGOING - NO PDF](https://drive.google.com/drive/folders/1z_AQXtreZA6JAn1m_sOycwdNzCvRHKhc?usp=sharing)
+[Design's Architecture of a decission supporting software for buying/holding/selling stocks](https://drive.google.com/drive/folders/1z_AQXtreZA6JAn1m_sOycwdNzCvRHKhc?usp=sharing)
+ ONGOING - NO PDF
 <img src="images/Poster_Architecture_ML_Software_StockMarket.png?raw=true"/>
 
 
@@ -40,10 +41,12 @@
 ---
 ### Complete Projects' Documents - (Spanish)
 
-- [Design's Architecture of a decission supporting software for buying/holding/selling stocks - ONGOING - NO PDF](https://drive.google.com/drive/folders/1z_AQXtreZA6JAn1m_sOycwdNzCvRHKhc?usp=sharing)
+- [Design's Architecture of a decission supporting software for buying/holding/selling stocks](https://drive.google.com/drive/folders/1z_AQXtreZA6JAn1m_sOycwdNzCvRHKhc?usp=sharing)
+  ONGOING - NO PDF
 
-- [Degree project:Comparison of Machine Learning Methods Applied to Predicting Short-Term Movements of DJIA Stocks During Quarterly Financial Reporting Periods - ENGLISH COMMENTED CODE AVAILABLE](https://drive.google.com/drive/folders/1mjlZBEcwGirFmkWyuCtGjAJvY3tU_SCf?usp=sharing)
-
+- [Degree project:Comparison of Machine Learning Methods Applied to Predicting Short-Term Movements of DJIA Stocks During Quarterly Financial Reporting Periods](https://drive.google.com/drive/folders/1mjlZBEcwGirFmkWyuCtGjAJvY3tU_SCf?usp=sharing)
+  ENGLISH COMMENTED CODE AVAILABLE
+  
 - [PIP: Design of a vital signs measuring device for travellers](https://drive.google.com/drive/folders/1CoL1idKjjKb3Cglz5eRqHbcudqS3a5Ru?usp=sharing)
 
 - [Architecture design of a computer, and Fitness Timer app programming](https://drive.google.com/drive/folders/1iR5xH33t7V-5tq88k20tk8MSsavnJqBS?usp=sharing)
