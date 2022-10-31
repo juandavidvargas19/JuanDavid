@@ -86,8 +86,13 @@
 - October 2020 - March 2021. I studied at Otto-von-Guericke-Universität Magdeburg as an exchange student as part of the KOSPIE scholarship.
 
 
+
+
 For further information and descriptions about the activities, certifications, and courses, I have done, please go to my LinkedIn here:
 <a href="https://www.linkedin.com/in/juan-david-vargas-mazuera-07197a1a5/">View My LinkedIn Profile</a> 
+
+
+
 
 Also, if you wish to contact me, feel free to send me an email to: juandavid2001@javerianacali.edu.co, or juan.davidvargas@hotmail.com
 
