@@ -21,7 +21,7 @@
 
 ---
 [Analysis of the participation frequency of PUJ electronics engineering students in sports and its relationship with the advance of academic semesters](https://drive.google.com/file/d/1hDD_FKXWgrtuJRIDVtmnyYhHoBSyRkTl/view?usp=sharing)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+<img src="images/Poster_Estatistics.png?raw=true"/>
 
 ---
 ### Complete Projects - PDFs (Spanish)
