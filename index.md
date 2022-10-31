@@ -4,33 +4,50 @@
 ---
 ### University Projects. Summarized Posters.
 
+
 [Design's Architecture of a decission supporting software for buying/holding/selling stocks - ONGOING](/pdf/sample_presentation.pdf)
 <img src="images/Poster_Architecture_ML_Software_StockMarket.png?raw=true"/>
 
+
 ---
+
 
 [Degree project: Comparison of Machine Learning Methods Applied to Predicting Short-Term Movements of DJIA Stocks During Quarterly Financial Reporting Periods](https://drive.google.com/file/d/1HwM-nndI3PmbBNZRBjc0OxugWNdrR2rN/view?usp=sharing)
 <img src="images/Poster_DegreeProject.png?raw=true"/>
 
+
 ---
+
+
 [Design of a vital signs measuring device for travellers](https://drive.google.com/file/d/1mL0XeWrRTFDERlXTDg2GRa9UACPKTGdS/view?usp=sharing)
 <img src="images/Poster_VitalSigns.png?raw=true"/>
 
+
 ---
+
+
 [Architecture design of a computer, and Fitness Timer app programming]([http://example.com/](https://drive.google.com/file/d/1uvSMTY9uSVOyogz2uCqb85k1BW4Mq4Vg/view?usp=sharing))
 <img src="images/Poster_Fitness.png?raw=true"/>
 
+
 ---
+
+
 [Analysis of the participation frequency of PUJ electronics engineering students in sports and its relationship with the advance of academic semesters](https://drive.google.com/file/d/1hDD_FKXWgrtuJRIDVtmnyYhHoBSyRkTl/view?usp=sharing)
 <img src="images/Poster_Estatistics.png?raw=true"/>
+
 
 ---
 ### Complete Projects - PDFs (Spanish)
 
 - [Degree project:Comparison of Machine Learning Methods Applied to Predicting Short-Term Movements of DJIA Stocks During Quarterly Financial Reporting Periods](https://drive.google.com/file/d/1HwM-nndI3PmbBNZRBjc0OxugWNdrR2rN/view?usp=sharing)
+
 - [Design's Architecture of a decission supporting software for buying/holding/selling stocks](http://example.com/)
+
 - [Design of a vital signs measuring device for travellers](https://drive.google.com/file/d/1mL0XeWrRTFDERlXTDg2GRa9UACPKTGdS/view?usp=sharing)
+
 - [Architecture design of a computer, and Fitness Timer app programming](https://drive.google.com/file/d/1uvSMTY9uSVOyogz2uCqb85k1BW4Mq4Vg/view?usp=sharing)
+
 - [Analysis of the participation frequency of PUJ electronics engineering students in sports and its relationship with the advance of academic semesters](https://drive.google.com/file/d/1hDD_FKXWgrtuJRIDVtmnyYhHoBSyRkTl/view?usp=sharing)
 
 
