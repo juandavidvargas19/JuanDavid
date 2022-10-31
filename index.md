@@ -1,15 +1,16 @@
 ## Portfolio
 
----
 
+---
 ### University Projects. Summarized Posters.
 
-[Degree project:Comparison of Machine Learning Methods Applied to Predicting Short-Term Movements of DJIA Stocks During Quarterly Financial Reporting Periods](https://drive.google.com/file/d/1HwM-nndI3PmbBNZRBjc0OxugWNdrR2rN/view?usp=sharing)
-<img src="images/Poster_DegreeProject.png?raw=true"/>
+[Design's Architecture of a decission supporting software for buying/holding/selling stocks - ONGOING](/pdf/sample_presentation.pdf)
+<img src="images/Poster_Architecture_ML_Software_StockMarket.png?raw=true"/>
 
 ---
-[Design's Architecture of a decission supporting software for buying/holding/selling stocks](/pdf/sample_presentation.pdf)
-<img src="images/Poster_Architecture_ML_Software_StockMarket.png?raw=true"/>
+
+[Degree project: Comparison of Machine Learning Methods Applied to Predicting Short-Term Movements of DJIA Stocks During Quarterly Financial Reporting Periods](https://drive.google.com/file/d/1HwM-nndI3PmbBNZRBjc0OxugWNdrR2rN/view?usp=sharing)
+<img src="images/Poster_DegreeProject.png?raw=true"/>
 
 ---
 [Design of a vital signs measuring device for travellers](https://drive.google.com/file/d/1mL0XeWrRTFDERlXTDg2GRa9UACPKTGdS/view?usp=sharing)
@@ -41,7 +42,7 @@
 - October 2022. I enrolled into the "online diploma in Neural Networks and Deep Learning " course at UAO university. 
 - September 2022. I finished the	"Stock Market Self-Regulator Exam Preparation" course at bvc online.
 - Septemeber 2022. I finished the "Comparison of Machine Learning Methods Applied to Predicting Short-Term Movements of DJIA Stocks During Quarterly Financial Reporting Periods" project.
-- August 2022. I started the "Architecture's digital design of a decission supporting software for buying/holding/selling stocks" project.  
+- August 2022. I started the "Design's Architecture of a decission supporting software for buying/holding/selling stocks" project.  
 - June -July 2022. I volunteered at CEFAMM, Quito. 
 - June 2022. I finished the "diploma in stock market" course at bvc online. 
 - April 2022. I finished the "Machine learning with python: a practical introduction" course at edx. 
