@@ -66,9 +66,10 @@
 
 - September 2022. I finished the	"Stock Market Self-Regulator Exam Preparation" course at bvc online.
 
-- Septemeber 2022. I finished the "Comparison of Machine Learning Methods Applied to Predicting Short-Term Movements of DJIA Stocks During Quarterly Financial Reporting Periods" project.
-
 - September 2022. I started the "Design's Architecture of a decission supporting software for buying/holding/selling stocks" project.  
+
+- August 2022. I finished the "Comparison of Machine Learning Methods Applied to Predicting Short-Term Movements of DJIA Stocks During Quarterly Financial Reporting Periods" project.
+
 
 - June -July 2022. I volunteered at CEFAMM, Quito. 
 
