@@ -12,28 +12,28 @@
 ---
 
 
-[Degree project: Comparison of Machine Learning Methods Applied to Predicting Short-Term Movements of DJIA Stocks During Quarterly Financial Reporting Periods](https://drive.google.com/drive/folders/1mjlZBEcwGirFmkWyuCtGjAJvY3tU_SCf?usp=sharing)
+[Degree project: Comparison of Machine Learning Methods Applied to Predicting Short-Term Movements of DJIA Stocks During Quarterly Financial Reporting Periods](https://drive.google.com/file/d/1HwM-nndI3PmbBNZRBjc0OxugWNdrR2rN/view?usp=sharing)
 <img src="images/Poster_DegreeProject.png?raw=true"/>
 
 
 ---
 
 
-[Design of a vital signs measuring device for travellers](https://drive.google.com/drive/folders/1CoL1idKjjKb3Cglz5eRqHbcudqS3a5Ru?usp=sharing)
+[Design of a vital signs measuring device for travellers](https://drive.google.com/file/d/1mL0XeWrRTFDERlXTDg2GRa9UACPKTGdS/view?usp=sharing)
 <img src="images/Poster_VitalSigns.png?raw=true"/>
 
 
 ---
 
 
-[Architecture design of a computer, and Fitness Timer app programming]([http://example.com/](https://drive.google.com/drive/folders/1iR5xH33t7V-5tq88k20tk8MSsavnJqBS?usp=sharing)
+[Architecture design of a computer, and Fitness Timer app programming]([http://example.com/](https://drive.google.com/file/d/1uvSMTY9uSVOyogz2uCqb85k1BW4Mq4Vg/view?usp=sharing)
 <img src="images/Poster_Fitness.png?raw=true"/>
 
 
 ---
 
 
-[Analysis of the attendance frequency of PUJ electronics engineering students in sports and its relationship with the advance of academic semesters](https://drive.google.com/drive/folders/1L8S9wpLPTHcJ1TzWBG_Pp43-92X_tiNU?usp=sharing)
+[Analysis of the attendance frequency of PUJ electronics engineering students in sports and its relationship with the advance of academic semesters](https://drive.google.com/file/d/1hDD_FKXWgrtuJRIDVtmnyYhHoBSyRkTl/view?usp=sharing)
 <img src="images/Poster_Estatistics.png?raw=true"/>
 
 
