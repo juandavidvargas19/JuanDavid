@@ -86,6 +86,7 @@
 - October 2020 - March 2021. I studied at Otto-von-Guericke-Universität Magdeburg as an exchange student as part of the KOSPIE scholarship.
 
 
+---
 
 
 For further information and descriptions about the activities, certifications, and courses, I have done, please go to my LinkedIn here:
