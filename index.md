@@ -44,8 +44,8 @@
 - [Degree project:Comparison of Machine Learning Methods Applied to Predicting Short-Term Movements of DJIA Stocks During Quarterly Financial Reporting Periods](https://drive.google.com/drive/folders/1mjlZBEcwGirFmkWyuCtGjAJvY3tU_SCf?usp=sharing)
   ENGLISH COMMENTED CODE AVAILABLE
   
-  - [Design's Architecture of a decission supporting software for buying/holding/selling stocks](https://drive.google.com/drive/folders/1z_AQXtreZA6JAn1m_sOycwdNzCvRHKhc?usp=sharing)
-  ONGOING - NO PDF
+- [Design's Architecture of a decission supporting software for buying/holding/selling stocks](https://drive.google.com/drive/folders/1z_AQXtreZA6JAn1m_sOycwdNzCvRHKhc?usp=sharing)
+ ONGOING - NO PDF
   
 - [PIP: Design of a vital signs measuring device for travellers](https://drive.google.com/drive/folders/1CoL1idKjjKb3Cglz5eRqHbcudqS3a5Ru?usp=sharing)
 
