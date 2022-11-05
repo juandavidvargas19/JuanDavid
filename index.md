@@ -5,7 +5,7 @@
 ### University Projects. Summarized Posters.
 
 
-[Design's Architecture of a decission supporting software for buying/holding/selling stocks](https://drive.google.com/drive/folders/1z_AQXtreZA6JAn1m_sOycwdNzCvRHKhc?usp=sharing)
+[Design's Architecture of a decission supporting software for buying/holding/selling stocks](https://drive.google.com/file/d/1NYobbKtTCUJlWTT7PPwgbeogRi6qODcN/view?usp=sharing)
  ONGOING - NO PDF
 <img src="images/Poster_Architecture_ML_Software_StockMarket.png?raw=true"/>
 
