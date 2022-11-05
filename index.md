@@ -4,15 +4,6 @@
 ---
 ### University Projects. Summarized Posters.
 
-
-[Design's Architecture of a decission supporting software for buying/holding/selling stocks](https://drive.google.com/file/d/1NYobbKtTCUJlWTT7PPwgbeogRi6qODcN/view?usp=sharing)
- ONGOING - NO PDF
-<img src="images/Poster_Architecture_ML_Software_StockMarket.png?raw=true"/>
-
-
----
-
-
 [Degree project: Comparison of Machine Learning Methods Applied to Predicting Short-Term Movements of DJIA Stocks During Quarterly Financial Reporting Periods](https://drive.google.com/file/d/1HwM-nndI3PmbBNZRBjc0OxugWNdrR2rN/view?usp=sharing)
  ENGLISH COMMENTED CODE AVAILABLE (Go to "Projects' Documents" below)
 
@@ -21,6 +12,12 @@
 
 ---
 
+[Design's Architecture of a decission supporting software for buying/holding/selling stocks](https://drive.google.com/file/d/1NYobbKtTCUJlWTT7PPwgbeogRi6qODcN/view?usp=sharing)
+ ONGOING - NO PDF
+<img src="images/Poster_Architecture_ML_Software_StockMarket.png?raw=true"/>
+
+
+---
 
 [PIP: Design of a vital signs measuring device for travellers](https://drive.google.com/file/d/1mL0XeWrRTFDERlXTDg2GRa9UACPKTGdS/view?usp=sharing)
 <img src="images/Poster_VitalSigns.png?raw=true"/>
@@ -43,11 +40,12 @@
 ---
 ### Projects' Documents - (Spanish)
 
-- [Design's Architecture of a decission supporting software for buying/holding/selling stocks](https://drive.google.com/drive/folders/1z_AQXtreZA6JAn1m_sOycwdNzCvRHKhc?usp=sharing)
-  ONGOING - NO PDF
 
 - [Degree project:Comparison of Machine Learning Methods Applied to Predicting Short-Term Movements of DJIA Stocks During Quarterly Financial Reporting Periods](https://drive.google.com/drive/folders/1mjlZBEcwGirFmkWyuCtGjAJvY3tU_SCf?usp=sharing)
   ENGLISH COMMENTED CODE AVAILABLE
+  
+  - [Design's Architecture of a decission supporting software for buying/holding/selling stocks](https://drive.google.com/drive/folders/1z_AQXtreZA6JAn1m_sOycwdNzCvRHKhc?usp=sharing)
+  ONGOING - NO PDF
   
 - [PIP: Design of a vital signs measuring device for travellers](https://drive.google.com/drive/folders/1CoL1idKjjKb3Cglz5eRqHbcudqS3a5Ru?usp=sharing)
 
