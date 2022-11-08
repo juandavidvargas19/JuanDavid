@@ -6,7 +6,7 @@
 
 [Degree project: Comparison of Machine Learning Methods Applied to Predicting Short-Term Movements of DJIA Stocks During Quarterly Financial Reporting Periods](https://drive.google.com/file/d/1HwM-nndI3PmbBNZRBjc0OxugWNdrR2rN/view?usp=sharing)
  ENGLISH COMMENTED CODE AVAILABLE (Go to "Projects' Documents" below)
- - [Click here to open poster](https://drive.google.com/file/d/1PLxDw9sZHt-xnC3TQdJwe-t69ICIo4FX/view?usp=sharing)
+ - [Click here to open poster](https://www.canva.com/design/DAFQkuB92vo/f9VwUXOoP5CIxsBTcj79dg/view?utm_content=DAFQkuB92vo&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
 
 <img src="images/Poster_DegreeProject.png?raw=true"/>
 
@@ -15,7 +15,7 @@
 
 [Design's Architecture of a decission supporting software for buying/holding/selling stocks](https://drive.google.com/file/d/1NYobbKtTCUJlWTT7PPwgbeogRi6qODcN/view?usp=sharing)
  ONGOING - NO PDF
-  - [Click here to open poster](https://drive.google.com/file/d/14-2SAFTGizCXERuveHdenDXINFZ7jOX9/view?usp=sharing)
+  - [Click here to open poster](https://www.canva.com/design/DAFQk5TZRvc/V5uWD41XbIstw-RX9DAa9g/view?utm_content=DAFQk5TZRvc&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
 
 <img src="images/Poster_Architecture_ML_Software_StockMarket.png?raw=true"/>
 
@@ -23,7 +23,7 @@
 ---
 
 [PIP: Design of a vital signs measuring device for travellers](https://drive.google.com/file/d/1mL0XeWrRTFDERlXTDg2GRa9UACPKTGdS/view?usp=sharing)
- - [Click here to open poster](https://drive.google.com/file/d/1U9haOYLDG5EchNQ2px7wFdoMof4V8Hvd/view?usp=sharing)
+ - [Click here to open poster](https://www.canva.com/design/DAFQk3ksHbs/mtdWRPXgs9b4Ho6LM1cuYQ/view?utm_content=DAFQk3ksHbs&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
 
 <img src="images/Poster_VitalSigns.png?raw=true"/>
 
@@ -32,7 +32,7 @@
 
 
 [Architecture design of a computer, and Fitness Timer app programming](https://drive.google.com/file/d/1uvSMTY9uSVOyogz2uCqb85k1BW4Mq4Vg/view?usp=sharing)
- - [Click here to open poster](https://drive.google.com/file/d/1zDuS32VwqAlVQzgc4-ofQqfj-H_An6lV/view?usp=sharing)
+ - [Click here to open poster](https://www.canva.com/design/DAFQlY8l12o/ab5N80iGsABGLV_bC1cVIw/view?utm_content=DAFQlY8l12o&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
 
 <img src="images/Poster_Fitness.png?raw=true"/>
 
@@ -41,7 +41,7 @@
 
 
 [Analysis of the attendance frequency of PUJ electronics engineering students in sports and its relationship with the advance of academic semesters](https://drive.google.com/file/d/1hDD_FKXWgrtuJRIDVtmnyYhHoBSyRkTl/view?usp=sharing)
- - [Click here to open poster](https://drive.google.com/file/d/1Weezbr71FtHEFSj9Yt1uWNo0lfAxnTUk/view?usp=sharing)
+ - [Click here to open poster](https://www.canva.com/design/DAFQleGzYYE/TTJ_cpEGUaMTOe7yy3j17Q/view?utm_content=DAFQleGzYYE&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
 
 <img src="images/Poster_Estatistics.png?raw=true"/>
 
@@ -67,7 +67,9 @@
 
 ### Timeline
 
-- October 2022. I finished the "Object Oriented programming in Java" course at coursera.
+- November 2022. I finished the "MLOps1 (Azure): Deploying AI and ML Models using Microsoft Azure Machine Learning" course at edX.
+
+- November 2022. I finished the "Object Oriented programming in Java" course at coursera.
 
 - October 2022. I enrolled into the "online diploma in Neural Networks and Deep Learning " course at UAO university. 
 
@@ -82,7 +84,7 @@
 
 - June 2022. I finished the "diploma in stock market" course at bvc online. 
 
-- April 2022. I finished the "Machine learning with python: a practical introduction" course at edx. 
+- April 2022. I finished the "Machine learning with python: a practical introduction" course at edX. 
 
 - February 2022. I started the "Comparison of Machine Learning Methods Applied to Predicting Short-Term Movements of DJIA Stocks During Quarterly Financial Reporting Periods" project.
 
