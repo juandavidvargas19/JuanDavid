@@ -2,7 +2,6 @@ title: Juan David Vargas Mazuera # your name (or website title) here
 logo: "/images/JuanD_33.jpg?raw=true" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
   Electronics engineering student with double emphasis in mecatronics and telecommunications. I have great interest in artificial intelligence, mathematics, and finance. I am currently working on a ML software tool to help in buy/sell/hold decissions of mid-long term trading in the stock market given companies' intrinsic economic data. 
-  <a href="https://www.linkedin.com/in/juan-david-vargas-mazuera-07197a1a5/">View My LinkedIn Profile</a> 
-  <a href="https://drive.google.com/file/d/10ebkuuOF2DrrPY9ZThTLpe5HANC7IP4x/view?usp=sharing">Overview my CV</a> 
+  <a href="https://www.linkedin.com/in/juan-david-vargas-mazuera-07197a1a5/">View My LinkedIn Profile</a>                              <a href="https://drive.google.com/file/d/10ebkuuOF2DrrPY9ZThTLpe5HANC7IP4x/view?usp=sharing">Overview my CV</a> 
 
 theme: jekyll-theme-minimal
