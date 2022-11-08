@@ -15,12 +15,16 @@
 
 [Design's Architecture of a decission supporting software for buying/holding/selling stocks](https://drive.google.com/file/d/1NYobbKtTCUJlWTT7PPwgbeogRi6qODcN/view?usp=sharing)
  ONGOING - NO PDF
+  - [Click here to open poster](https://drive.google.com/file/d/14-2SAFTGizCXERuveHdenDXINFZ7jOX9/view?usp=sharing)
+
 <img src="images/Poster_Architecture_ML_Software_StockMarket.png?raw=true"/>
 
 
 ---
 
 [PIP: Design of a vital signs measuring device for travellers](https://drive.google.com/file/d/1mL0XeWrRTFDERlXTDg2GRa9UACPKTGdS/view?usp=sharing)
+ - [Click here to open poster](https://drive.google.com/file/d/1U9haOYLDG5EchNQ2px7wFdoMof4V8Hvd/view?usp=sharing)
+
 <img src="images/Poster_VitalSigns.png?raw=true"/>
 
 
@@ -28,6 +32,8 @@
 
 
 [Architecture design of a computer, and Fitness Timer app programming](https://drive.google.com/file/d/1uvSMTY9uSVOyogz2uCqb85k1BW4Mq4Vg/view?usp=sharing)
+ - [Click here to open poster](https://drive.google.com/file/d/1zDuS32VwqAlVQzgc4-ofQqfj-H_An6lV/view?usp=sharing)
+
 <img src="images/Poster_Fitness.png?raw=true"/>
 
 
@@ -35,6 +41,8 @@
 
 
 [Analysis of the attendance frequency of PUJ electronics engineering students in sports and its relationship with the advance of academic semesters](https://drive.google.com/file/d/1hDD_FKXWgrtuJRIDVtmnyYhHoBSyRkTl/view?usp=sharing)
+ - [Click here to open poster](https://drive.google.com/file/d/1Weezbr71FtHEFSj9Yt1uWNo0lfAxnTUk/view?usp=sharing)
+
 <img src="images/Poster_Estatistics.png?raw=true"/>
 
 
