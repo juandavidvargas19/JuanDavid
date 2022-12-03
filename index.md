@@ -13,8 +13,7 @@
 
 ---
 
-[Design's Architecture of a decission supporting software for buying/holding/selling stocks](https://drive.google.com/file/d/1NYobbKtTCUJlWTT7PPwgbeogRi6qODcN/view?usp=sharing)
- ONGOING - NO PDF
+[Design's Architecture of a decission supporting software for buying/holding/selling stocks](https://drive.google.com/file/d/1emQXiozyWUQaeHPeLE8ydw4g53rW13Ng/view?usp=sharing)
   - [Click here to open poster](https://www.canva.com/design/DAFQk5TZRvc/V5uWD41XbIstw-RX9DAa9g/view?utm_content=DAFQk5TZRvc&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
 
 <img src="images/Poster_Architecture_ML_Software_StockMarket.png?raw=true"/>
@@ -54,7 +53,6 @@
   ENGLISH COMMENTED CODE AVAILABLE
   
 - [Design's Architecture of a decission supporting software for buying/holding/selling stocks](https://drive.google.com/drive/folders/1z_AQXtreZA6JAn1m_sOycwdNzCvRHKhc?usp=sharing)
- ONGOING - NO PDF
   
 - [PIP: Design of a vital signs measuring device for travellers](https://drive.google.com/drive/folders/1CoL1idKjjKb3Cglz5eRqHbcudqS3a5Ru?usp=sharing)
 
@@ -66,6 +64,9 @@
 ---
 
 ### Timeline
+- November 2022. I finished the "Data Analysis for business decision making" professional certificate at coursera.
+
+- November 2022. I finished the "FinTech: Foundations and applications of financial technology" specialization at coursera.
 
 - November 2022. I finished the "MLOps1 (Azure): Deploying AI and ML Models using Microsoft Azure Machine Learning" course at edX.
 
