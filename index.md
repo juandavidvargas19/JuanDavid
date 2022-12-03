@@ -14,8 +14,8 @@
 ---
 
 [Design's Architecture of a decission supporting software for buying/holding/selling stocks](https://drive.google.com/file/d/1emQXiozyWUQaeHPeLE8ydw4g53rW13Ng/view?usp=sharing)
-  - [Click here to open poster](https://www.canva.com/design/DAFQk5TZRvc/V5uWD41XbIstw-RX9DAa9g/view?utm_content=DAFQk5TZRvc&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
  C CODE WITH PTHREADS IMPLEMENTATION AVAILABLE(Go to "Projects' Documents" below)
+  - [Click here to open poster](https://www.canva.com/design/DAFQk5TZRvc/V5uWD41XbIstw-RX9DAa9g/view?utm_content=DAFQk5TZRvc&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
 
 <img src="images/Poster_Architecture_ML_Software_StockMarket.png?raw=true"/>
 
