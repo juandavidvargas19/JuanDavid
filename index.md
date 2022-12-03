@@ -107,7 +107,7 @@ Also, if you wish to contact me, feel free to send me an email to: juandavid2001
 Hope you have a good day!
 
 ---
-View My:  [LinkedIn Profile ](https://www.linkedin.com/in/juan-david-vargas-mazuera-07197a1a5/) | [ CV](https://drive.google.com/file/d/10ebkuuOF2DrrPY9ZThTLpe5HANC7IP4x/view?usp=sharing)
+View My:  [LinkedIn Profile ](https://www.linkedin.com/in/juan-david-vargas-mazuera-07197a1a5/) | [ CV](https://drive.google.com/file/d/1OwdW1LuXzyOjZC5xDzbOCnGQklkPRfIs/view?usp=sharing)
 
 <p style="font-size:11px">Page template forked from <a href="https://github.com/evanca/quick-portfolio">evanca</a></p>
 <!-- Remove above link if you don't want to attibute -->
