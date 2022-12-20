@@ -65,7 +65,14 @@
 ---
 
 ### Timeline
-- November 2022. I finished the "Data Analysis for business decision making" professional certificate at coursera.
+
+- December 2022. I finished the "Machine Learning" specialization at coursera.
+
+- December 2022. I finished the "AI in Healthcare" specialization at coursera.
+
+- December 2022. I finished the "Mathematics for Machine Learning" specialization at coursera.
+
+- November 2022. I finished the "Data Analysis for business decision making" professional certificate at EdX.
 
 - November 2022. I finished the "FinTech: Foundations and applications of financial technology" specialization at coursera.
 
@@ -80,7 +87,6 @@
 - September 2022. I started the "Design's Architecture of a decission supporting software for buying/holding/selling stocks" project.  
 
 - August 2022. I finished the "Comparison of Machine Learning Methods Applied to Predicting Short-Term Movements of DJIA Stocks During Quarterly Financial Reporting Periods" project.
-
 
 - June -July 2022. I volunteered at CEFAMM, Quito. 
 
