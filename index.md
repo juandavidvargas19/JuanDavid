@@ -37,14 +37,6 @@
 <img src="images/Poster_Fitness.png?raw=true"/>
 
 
----
-
-
-[Analysis of the attendance frequency of PUJ electronics engineering students in sports and its relationship with the advance of academic semesters](https://drive.google.com/file/d/1hDD_FKXWgrtuJRIDVtmnyYhHoBSyRkTl/view?usp=sharing)
- - [Click here to open poster](https://www.canva.com/design/DAFQleGzYYE/TTJ_cpEGUaMTOe7yy3j17Q/view?utm_content=DAFQleGzYYE&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
-
-<img src="images/Poster_Estatistics.png?raw=true"/>
-
 
 ---
 ### Projects' Documents - (Spanish)
@@ -59,7 +51,6 @@
 
 - [Architecture design of a computer, and Fitness Timer app programming](https://drive.google.com/drive/folders/1iR5xH33t7V-5tq88k20tk8MSsavnJqBS?usp=sharing)
 
-- [Analysis of the attendance frequency of PUJ electronics engineering students in sports and its relationship with the advance of academic semesters](https://drive.google.com/drive/folders/1L8S9wpLPTHcJ1TzWBG_Pp43-92X_tiNU?usp=sharing)
 
 
 ---
