@@ -57,6 +57,10 @@
 
 ### Timeline
 
+- January 2023. I became the Backoffice vice-president in AIESEC Cali, being in charge of Talent adquisition management, and financial planning support.
+
+- December 2022. I started to work at Procedata Internacional as a control M administrator in Experian(development of new flows, business software development, and control shells programming).
+
 - December 2022. I finished the "Machine Learning" specialization at coursera.
 
 - December 2022. I finished the "AI in Healthcare" specialization at coursera.
